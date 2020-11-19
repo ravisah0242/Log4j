@@ -12,6 +12,9 @@ public class Test2
 		System.out.println("Pbbari");
 		System.out.println("bb");
 
+		
+		
+		System.out.println("*****************");
 	}
 
 }
