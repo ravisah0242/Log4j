@@ -10,6 +10,10 @@ public class Test
 		System.out.println("Ranjan");
 		
 		System.out.println("Sah");
+		
+		System.out.println("Pari");
+		System.out.println("Pari");
+		System.out.println("Pari");
 	}
 
 }
